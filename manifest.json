@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "assai-plugin",
+	"name": "assai",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Provides AI services in Obsidian.",
+	"author": "quantarion",
+	"authorUrl": "https://github.com/quantarion/assai",
+	"fundingUrl": "https://github.com/quantarion/assai",
 	"isDesktopOnly": false
 }
